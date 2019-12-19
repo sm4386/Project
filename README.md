@@ -28,3 +28,4 @@ Apparent driving force for water and ammonia permeation for IMD
 
 Apparent driving force for water and ammonia permeation for CMD
 # Project
+[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/sm4386/Project/master)
