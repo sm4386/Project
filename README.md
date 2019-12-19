@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sm4386/Project/master)
+
 # Proposed Project
 
 Scientific question: How significant is temperature polarization during the novel operation of membrane distillation termed isothermal membrane distillation, IMD? 
